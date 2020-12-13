@@ -7,6 +7,7 @@
 - [IPL/Laser](#IPL/Laser)
 - [Epilating](#Epilating)
 - [Waxing](#Waxing)
+- [Depilation](#Depilation)
 - [Electrolysis](#Electrolysis)
 
 # Introduction
@@ -209,6 +210,10 @@ While it might seem that exfoliating is not needed, it is actually as important 
 Note: Epilating is simply not suitable for everyone. Some people cannot reduce the irritation nor reduce frequency of infection and there is nothing they can do, epilating is not for them.
 
 # Waxing
+
+TODO
+
+# Depilation
 
 TODO
 
