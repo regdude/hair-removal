@@ -204,6 +204,8 @@ The biggest issue with epilation is the skin irritation, your skin will be highl
 
 When you epilate your hair, you pull the hair with the root out from your skin, but this leave the hair follicle open. This opening is very likely to get infected if not treated. Some people put alcohol on this area to disinfect it, but that is not recommended,  you are more likely to cause skin irritation. Look for a moisturizer with anti-bacterial properties, aloe vera gels are the most common ones. To minimize the chance of skin's infection, you should avoid touching your skin after epilating.
 
+While it might seem that exfoliating is not needed, it is actually as important when shaving with a razor blade. When your hair starts to grow back, it will need to penetrate your skin and you are still prone to ingrown hair either by them growing sideways or curling back. Properly exfoliated and moisturized skin is crucial when epilating. Remember that you need to allow your hair to grow back a bit in order to preform epilation again.
+
 Note: Epilating is simply not suitable for everyone. Some people cannot reduce the irritation nor reduce frequency of infection and there is nothing they can do, epilating is not for them.
 
 # Waxing
