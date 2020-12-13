@@ -61,6 +61,7 @@ Pros:
 - No allergic reactions (only can happen in very rare cases)
 - Almost impossible to create infection
 - In general shaving direction does not matter (might depend on the trimmer)
+- Recommended even for sensitive skin
 
 Cons:
 - Hard to achieve smooth hair-less feeling
@@ -84,7 +85,6 @@ The most common, but sadly a very harsh method is to remove hair with a razor bl
 Pros:
 - Fast, can even be done in 10 minutes for full body hair removal
 - Achieves almost the smoothest possible feeling (if done properly)
-- Recommended even for sensitive skin
 
 Cons:
 - Very likely to create ingrown hairs
