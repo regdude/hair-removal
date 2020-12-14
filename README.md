@@ -211,7 +211,57 @@ Note: Epilating is simply not suitable for everyone. Some people cannot reduce t
 
 # Waxing
 
-TODO
+Waxing is an alternative to epilation since it works with the same principle. The difference between epilation is that instead of a epilator (or tweezers), a sticky substance is used and then pulled of against the hair growth direction. The substance that is used varies, but it is usually a hot wax.
+
+Pros:
+- Gives you a smooth feeling a bit longer than shaving
+- Fast, but takes a bit longer than shaving with razor
+- Hair that regrows tends to be thinner
+- Works on all skin and hair colors
+
+Cons:
+- It is quite painful, many people cannot withstand the pain, but tends to be less painful than epilating
+- It is very likely to cause infection
+- Not recommended for sensitive skin
+- Most people will not be able to tolerate the pain in pubic area and other sensitive areas
+- Prone to ingrown hair, but less than shaving with a razor blade
+- Causes a lot of irritation
+- Needs to be done on a dried skin
+- Requires your hair to be at certain length
+- Can cause allergic reaction to some people
+
+Below you can find general steps for waxing hair:
+1) Exfoliate your skin (preferably the milk bath method)
+2) Wash your skin with a body wash
+3) Wait till your skin has dried
+4) Apply hot wax to skin
+5) Place a cloth strip on top of the wax
+6) Let the hot wax to cool down
+7) Pull the hardened wax off your skin by pulling it against the hair growth direction with a fast movement 
+8) Wash off excess hairs and dampen your skin
+9) Moisturize skin
+10) Try not to touch your waxed skin to minimize the chance of infection
+11) Avoid anything that can cause skin irritation, including exposure to sun
+
+Note: Follow the instructions on the packaging of your specific wax, they will differ by the time needed to heat it up and how much time is needed for it to harden as well as other indications. It will also mention the required hair length for the wax to be effctive.
+
+**IMPORTANT:** Some people can develop allergic reaction from waxing, make sure you preform a patch test!
+
+Waxing is sometimes considered less painful than epilating, but people report that it is simply a different kind of sensation and to some it is easier to adapt to the pain created from epilation than the one created by waxing. 
+
+Note: Waxing can be done professionally, you should not preform it yourself if you are inexperienced, there are many reports that people burn their skin because of the hot wax, create rashes, irritate their skin severely or cause infections.
+
+When you wax your hair, you pull the hair with the root out from your skin, but this leave the hair follicle open. This opening is very likely to get infected if not treated. Some people put alcohol on this area to disinfect it, but that is not recommended,  you are more likely to cause skin irritation. Look for a moisturizer with anti-bacterial properties, aloe vera gels are the most common ones. To minimize the chance of skin's infection, you should avoid touching your skin after waxing.
+
+**IMPORTANT:** It is possible to use wax strips to wax your hair, but they can cause allergic reaction to some people, regardless that they are labeled as "sensitive". Always make sure you preform a patch test and wait 24 hours to see if you do not develop allergic reaction or skin irritation!
+
+One of the drawbacks with waxing is that it requires longer hair than epilating. Usually waxing requires about 7mm of hair length for waxing to work, this means you cannot shave between appointments or between waxing at home. Some waxes might work with shorter hair, you should check the instructions for your wax to make sure.
+
+Note: There is a popular home-made waxing-like method available, it is called sugaring. This is essentially the same as waxing, only difference is that instead of using wax, sugar is used in a recipe to create a wax-like substance.
+
+While it might seem that exfoliating is not needed, it is actually as important when shaving with a razor blade. When your hair starts to grow back, it will need to penetrate your skin and you are still prone to ingrown hair either by them growing sideways or curling back. Properly exfoliated and moisturized skin is crucial when epilating. Remember that you need to allow your hair to grow back a bit in order to preform epilation again.
+
+Note: Waxing is simply not suitable for everyone. Some people cannot reduce the irritation nor reduce frequency of infection and there is nothing they can do, waxing is not for them.
 
 # Depilation
 
