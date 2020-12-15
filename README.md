@@ -325,6 +325,8 @@ Note: Even professionals not always preform this procedure perfectly, some speci
 
 There are a lot of devices available that claim they are based on electrolysis for hair removal, but many either do not use electrolysis (and therefore is not permanent hair removal) or are not effective (or even more dangerous than proper medical grade equipment). Proper electrolysis hair removal can cost easily multiple hundreds of US dollars and even those can have doubtful results, proper medical grade devices will cost thousands of US dollars.
 
+Note: Moisturizing and exfoliation might not be required for your skin, bit proper skincare can reduce the chances of permanent scars that can form from electrolysis, ask your doctor for proper instructions.
+
 Since an electrode needs to be placed inside a hair follicle and then zapped, the whole procedure requires a lot of time and therefore is very expensive, sessions can cost anywhere between a hundred to thousand US dollars. Usually because of the time restraints (and high costs) women choose only to remove upper lip area with electrolysis since that usually takes multiple hours and does not give you a guarantee that the procedure does not need to be redone on that area. It is very uncommon to preform electrolysis on larger areas.
 
 If you do decide to get a at-home electrolysis based hair remover, then make sure it actually uses electrolysis and do note that you always need to have a sterile environment and sterile device since you are placing a needle into your skin that can easily cause infections. Preforming this at home is very difficult and you will most likely be able to remove a few individual hairs. 
