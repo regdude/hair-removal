@@ -300,4 +300,33 @@ Depilation is a preferred method to most people that cannot seem to reduce the i
 
 # Electrolysis
 
-TODO
+The only true permanent hair removal method involves placing an electrode (small needle) in the hair follicle, there are two currently types of electrolysis - galvanic and thermolytic (and a mix of both). The most dangerous hair removal method of them all.
+
+Pros:
+- Permanent hair removal
+
+Cons:
+- Its expensive
+- Its dangerous
+- It takes a lot of time even for small areas
+- Its painful
+- It requires a highly skilled professional
+- Not widely available
+- High risk of creating scars
+- Almost impossible to preform yourself
+- Can require multiple appointments
+- Can cause infections
+
+**IMPORTANT:** If you are interested in permanent hair removal, then electrolysis is currently the only method available, but it is extremely complex procedure and you should talk to your doctor before making any decisions!
+
+The principle is quite simple, a very small electrode (needle) is placed in a hole of a hair follicle and then the hair root is subjected to either heat (thermolytic) or electricity/RF (galvanic). What makes this a very dangerous method is the need to place the electrode exactly right (depth, location and angle), failure to do this creates large amounts of pain and leaves a scar.
+
+Note: Even professionals not always preform this procedure perfectly, some specialists report that they require more than 10000 zapped hair roots in order to get consistent results, this is just to comprehend the complexity of the procedure and why it should not be preformed at home. Some devices use a technology that reduces the chances of scarring when electrode is not properly placed, but they still need to re-preform the procedure to break down the hair root.
+
+There are a lot of devices available that claim they are based on electrolysis for hair removal, but many either do not use electrolysis (and therefore is not permanent hair removal) or are not effective (or even more dangerous than proper medical grade equipment). Proper electrolysis hair removal can cost easily multiple hundreds of US dollars and even those can have doubtful results, proper medical grade devices will cost thousands of US dollars.
+
+Since an electrode needs to be placed inside a hair follicle and then zapped, the whole procedure requires a lot of time and therefore is very expensive, sessions can cost anywhere between a hundred to thousand US dollars. Usually because of the time restraints (and high costs) women choose only to remove upper lip area with electrolysis since that usually takes multiple hours and does not give you a guarantee that the procedure does not need to be redone on that area. It is very uncommon to preform electrolysis on larger areas.
+
+If you do decide to get a at-home electrolysis based hair remover, then make sure it actually uses electrolysis and do note that you always need to have a sterile environment and sterile device since you are placing a needle into your skin that can easily cause infections. Preforming this at home is very difficult and you will most likely be able to remove a few individual hairs. 
+
+Note: This guide avoided exact instructions and only gave you brief knowledge about the procedure, this is to prevent you from preforming it yourself, talk to your doctor!
