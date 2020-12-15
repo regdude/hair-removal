@@ -265,7 +265,38 @@ Note: Waxing is simply not suitable for everyone. Some people cannot reduce the 
 
 # Depilation
 
-TODO
+A chemical hair removal method involves dissolving the protein structure of a hair to a point where it breaks off just on its own. Depilation is done using depilation creams or powders, but they all contain chemicals that are able to break down hairs, but they can do this only above the skin.
+
+Pros:
+- Fast, but takes a bit longer than shaving with razor
+- Very unlikely to cause ingrown hair
+- Very unlikely to cause infections
+- Very unlikely to cause itching
+- Some depilation creams/powders can be used on pubic area
+- Exfoliation is not required, but still recommended
+
+Cons:
+- Can cause allergic reaction to some people
+- It might create skin irritation to some people
+- Removes hair above the skin level, it is less smooth than other methods
+
+Note: The exact instructions can be found on the packaging on individual depilation cream/powder. Follow these instructions to make sure you do not irritate your skin by leaving the product on for too long.
+
+Below you can find general steps for depilating hair:
+1) Wash your skin
+2) Apply the depilation cream/powder on the skin
+3) Leave the product on (usually 10minutes, but check the instructions)
+4) Wipe off the depilation cream/powder (some products include a spatula)
+5) Wash off any excess product
+6) Moisturize your skin
+
+Note: Depilation does not require you to take a bath or exfoliate your skin, but it is highly recommended. Moisturizing is also not needed, but is still recommended to minimize chance of ingrown hairs.
+
+**IMPORTANT:** Depilation creams/powders can cause a severe allergic reaction to some people that can require immediate medical attention from professionals. Regardless if the depilation cream/powder is labeled as "sensitive", you MUST always do a patch test and wait 24 hours to make sure you do not develop allergic reaction or skin irritation!
+
+Depilation is a preferred method to most people that cannot seem to reduce the irritation and itching that comes from shaving with a razor blade, this is because depilation creams/powders dissolve the hair above the skin and does not (in most cases) create a sharp hair that makes you scratch. When you wipe the depilation cream/powder off, you break the hairs and as a result you have removed excess hair from your body. Depilation leaves longer hair than shaving or trimming, but it is by a margin as well.
+
+**IMPORTANT:** Make sure you do not keep the depilation cream/powder longer than stated in the instructions. If you leave the product on your skin for too long, you can develop a chemical burn. Do not use a depilation cream/powder on pubic area, if the product does not state that you can use it on pubic area, it is most likely that this product will cause skin irritation or even chemical burns.
 
 # Electrolysis
 
