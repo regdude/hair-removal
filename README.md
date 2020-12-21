@@ -1,6 +1,6 @@
 # Table of Contents
 - [Introduction](#Introduction)
-- [Skincare](#Skincaree)
+- [Skincare](#Skincare)
 - [Common issues](#Common-issues)
 - [Trimming](#Trimming)
 - [Shaving with razor blade](#Shaving-with-razor-blade)
@@ -30,7 +30,7 @@ When skin is exfoliated and/or hair is removed, you should moisturize your skin.
 
 Note: If you are not sure what kind of moisturizer to use, then you should check the skincare guide. While there is no perfect moisturizer that will fit everyone's needs, "CeraVe body cream and moisturizer" is highly praised due to its contents and how statistically it is safe for most people, consider using it as a safe option.
 
-**IMPORTANT:** Some people like to use a body oil instead of moisturizer. While body oil can be used, it is not suitable for acne-prone skin and can create a lot of pimples especially after some hair removal methods. Use with caution and a body moisturizer is preferred over body oil.
+**IMPORTANT:** Some people like to use a body oil instead of moisturizer. While body oil can be used, it is not suitable for acne-prone skin and can create a lot of pimples especially after some hair removal methods. Use with caution and a body moisturizer is preferred over body oil because oils only serve an occlusive function, oils do not hydrate your skin.
 
 # Common issues
 
@@ -220,7 +220,7 @@ Pros:
 - Works on all skin and hair colors
 
 Cons:
-- It is quite painful, many people cannot withstand the pain, but tends to be less painful than epilating
+- It is quite painful, many people cannot withstand the pain, some find it to be less painful than epilating
 - It is very likely to cause infection
 - Not recommended for sensitive skin
 - Most people will not be able to tolerate the pain in pubic area and other sensitive areas
