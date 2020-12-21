@@ -107,6 +107,8 @@ Below you can find a general guide on the steps of shaving with a razor blade:
 7) Moisturize skin
 8) Try not to touch your shaved skin to minimize the chance of infection
 
+Note: Many tend to think that shaving with a razor is simple and does not have any caveats. While many may advertise, that shaving with razor works for them very well and does not even cause irritation, this does not mean that you will have the same experience. Not only some skins are sensitive and acne-prone, some skins are older, which means they are less elastic, less hydrated and does not have a proper skin cell turnover rate, the older the skin, the larger the chance that shaving will cause complications. Something that might have worked fine for your early 20s, might be a disaster in your early 30s.
+
 You can benefit of shaving only in the evening. When you wake up, your skin is swollen and razor blade will not be able to cut the hair as close as you would in the evening. Another benefit it that shaving is irritating and your skin tends to heal at night. Considered adjusting your schedule so you can shave in the evening.
 
 You can choose either shaving cream or shaving gel, both serve a function to lubricate the skin and reduce razor irritation and as well as minimize the chance of razor cuts, they also make sure your body hair is as straight as possible to reduce the itching and ingrown hair. Shaving gels might have a significant advantage, they usually create a protective layer on the skin to reduce irritation and they tend to have moisturizing ingredients, though they still don't replace a proper moisturizer.
