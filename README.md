@@ -14,6 +14,8 @@
 
 There might be multiple reasons why you would want to remove body and facial hair, there are multiple methods available and each method has its own pros and cons. Anyone should be aware of possible risks and proper techniques before attempting to remove body (and even facial) hair. This guide is going to focus more on body hair removal, but the same guidelines can be used on facial hair as well.
 
+The reason why this guide is created is because of how commonly people ruin their skin just because they though shaving is simple. While it might not cause too much issues and you might only get a few scars on your first attempt on hair removal, this does not apply to everyone and especially to older people. Each individual is unique and one's advice might be a permanent disaster to another person. This guide focuses as much as possible to all possibilities out there.
+
 # Skincare
 
 You might be tempted to skip this step, but this is very crucial for any hair removal method. To minimize the unwanted effects of any hair removal method, you should make sure your skin is healthy. A healthy skin is exfoliated (but not overexfoliated), well hydrated, elastic and non-irritated. Skincare is a complex and you should check a full skincare guide to properly understand how to take care of your skin, but understanding it might be very frustrating.
