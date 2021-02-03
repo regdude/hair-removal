@@ -9,6 +9,7 @@
 - [Waxing](#Waxing)
 - [Depilation](#Depilation)
 - [Electrolysis](#Electrolysis)
+- [Issues](#Issues)
 
 # Introduction
 
@@ -26,9 +27,11 @@ Before you preform hair removal, you need to exfoliate your skin. Exfoliation is
 
 Note: There are other exfoliation methods, but a milk bath is the safest one that will work for almost everyone. While younger people might not need skin exfoliation, they still can benefit from it and get a nice skin glow.
 
+In case a milk bath is not an option, consider just taking a shower and use a loofah to remove dead skin cells. Moisten your skin in a lukewarm shower for at least 2 minutes and gently rub your skin with a loofah. This can be irritating so make sure you do it gentle without applying too much pressure. This exfoliation method is not recommended to be preformed on the same day when you are preforming hair removal, especially shaving with a razor blade. Note that loofah need to be changed regular basis otherwise they can cause infection.
+
 **IMPORTANT:** Other exfoliation methods might cause skin irritation for most people when hair removal is preformed right after skin exfoliation. If you choose other exfoliation methods, then you should preform hair removal on a different day to avoid irritation.
 
-When skin is exfoliated and/or hair is removed, you should moisturize your skin. This is meant to minimize the chance of ingrown hair, skin irritation (most commonly red razor bumps) and other issues. In general, hair removal is a harsh procedure against your skin and you should create conditions for it to heal properly. It is recommended to check a skincare guide to make sure you choose the right moisturizer for your skin type and it suits your skin condition, but in general most people will benefit from a basic drugstore moisturizer, look for a fragrance-free, sensitive, non-comedogenic body moisturizer, preferably something with aloe vera. There are many brands and you will have to see which moisturizer is sold in your area, but as a starter you can look for the following brands: CeraVe, La Roche Posay, Eucerin, Sebamed, Neutrogena and many more. Apply the moisturizer on a damp (but not wet) skin right after you have exfoliated and/or removed hair, you can apply small amounts of water to the skin to make the skin damp.
+When skin is exfoliated and/or hair is removed, you should moisturize your skin. This is meant to minimize the chance of ingrown hair, skin irritation (most commonly red patches) and other issues. In general, hair removal is a harsh procedure against your skin and you should create conditions for it to heal properly. It is recommended to check a skincare guide to make sure you choose the right moisturizer for your skin type and it suits your skin condition, but in general most people will benefit from a basic drugstore moisturizer, look for a fragrance-free, sensitive, non-comedogenic body moisturizer, preferably something with aloe vera. There are many brands and you will have to see which moisturizer is sold in your area, but as a starter you can look for the following brands: CeraVe, La Roche Posay, Eucerin, Sebamed, Neutrogena and many more. Apply the moisturizer on a damp (but not wet) skin right after you have exfoliated and/or removed hair, you can apply small amounts of water to the skin to make the skin damp.
 
 Note: If you are not sure what kind of moisturizer to use, then you should check the skincare guide. While there is no perfect moisturizer that will fit everyone's needs, "CeraVe body cream and moisturizer" is highly praised due to its contents and how statistically it is safe for most people, consider using it as a safe option.
 
@@ -336,3 +339,22 @@ Since an electrode needs to be placed inside a hair follicle and then zapped, th
 If you do decide to get a at-home electrolysis based hair remover, then make sure it actually uses electrolysis and do note that you always need to have a sterile environment and sterile device since you are placing a needle into your skin that can easily cause infections. Preforming this at home is very difficult and you will most likely be able to remove a few individual hairs. 
 
 Note: This guide avoided exact instructions and only gave you brief knowledge about the procedure, this is to prevent you from preforming it yourself, talk to your doctor!
+
+# Issues
+
+After some hair removal method you can expect some issues. Most common issue is ingrown hairs (razor bumps). There are other possible issues that can occur, but these are more complicated and should be examined carefully. Bellow you will find information about ingrown hairs:
+
+Ingrown hair occur when hair growing outwards from your skin is not able to penetrate the skin and causes skin irritation in forms of bumps, this also can happen when the growing hair curls back into your skin. To prevent this, you need a well hydrated, exfoliated and elastic skin, this can be achieved with a proper skincare routine, but some methods are still going to cause ingrown hairs for some people. Below you will find things you should not be doing when you have ingrown hair:
+- DO NOT touch
+- DO NOT squeeze
+- DO NOT poke
+- DO NOT scratch
+- DO NOT cut
+- DO NOT dig it out from skin
+- DO NOT punch
+- DO NOT use a flamethrower
+- DO NOT do anything to it, leave it alone!
+
+Your skin is an organ that is able to heal itself, if you do experience ingrown hair (especially from the first time shaving), let your skin heal itself. Ingrown hair should disappear after a few days if you are not touching it. Avoid tight clothes, shower on regular basis and, most importantly, moisturize your skin. The more you are going to touch it, the longer you will see skin discoloration or even scars that can stay for years. Hopefully you will learn your lesson and reconsider the importance of skincare.
+
+You can use an exfoliator to help the healing process, but be very gentle. Using harsh exfoliators will make your skin condition only worse, only chemical exfoliators are recommended if you experience ingrown hairs.
