@@ -9,7 +9,6 @@
 - [Waxing](#Waxing)
 - [Depilation](#Depilation)
 - [Electrolysis](#Electrolysis)
-- [Issues](#Issues)
 
 # Introduction
 
@@ -52,6 +51,23 @@ Before we start to discover possible hair removal methods, we should see the com
 **Keratosis pilaris:** Sometimes called "chicken legs", it is a harmless skin conditions that creates skin color bumps on your skin (commonly on legs and arms), they are usually caused by improper skincare and/or genetics. Many people tend to simply ignore this issue since it is too hard to avoid it.
 
 Note: While it might be tempting to choose a hair removal method that gives the smoothest results, you should always choose the method that is suitable for your skin to not create an unpleasant appearance. 
+
+After some hair removal method you can expect some issues. Most common issue is ingrown hairs (razor bumps). There are other possible issues that can occur, but these are more complicated and should be examined carefully. Bellow you will find information about ingrown hairs:
+
+Ingrown hair occur when hair growing outwards from your skin is not able to penetrate the skin and causes skin irritation in forms of bumps, this also can happen when the growing hair curls back into your skin. To prevent this, you need a well hydrated, exfoliated and elastic skin, this can be achieved with a proper skincare routine, but some methods are still going to cause ingrown hairs for some people. Below you will find things you should not be doing when you have ingrown hair:
+- DO NOT touch
+- DO NOT squeeze
+- DO NOT poke
+- DO NOT scratch
+- DO NOT cut
+- DO NOT dig it out from skin
+- DO NOT punch
+- DO NOT use a flamethrower
+- DO NOT do anything to it, leave it alone!
+
+Your skin is an organ that is able to heal itself, if you do experience ingrown hair (especially from the first time shaving), let your skin heal itself. Ingrown hair should disappear after a few days if you are not touching it. Avoid tight clothes, shower on regular basis and, most importantly, moisturize your skin. The more you are going to touch it, the longer you will see skin discoloration or even scars that can stay for years. Hopefully you will learn your lesson and reconsider the importance of skincare.
+
+You can use an exfoliator to help the healing process, but be very gentle. Using harsh exfoliators will make your skin condition only worse, only chemical exfoliators are recommended if you experience ingrown hairs.
 
 # Trimming
 
@@ -339,22 +355,3 @@ Since an electrode needs to be placed inside a hair follicle and then zapped, th
 If you do decide to get a at-home electrolysis based hair remover, then make sure it actually uses electrolysis and do note that you always need to have a sterile environment and sterile device since you are placing a needle into your skin that can easily cause infections. Preforming this at home is very difficult and you will most likely be able to remove a few individual hairs. 
 
 Note: This guide avoided exact instructions and only gave you brief knowledge about the procedure, this is to prevent you from preforming it yourself, talk to your doctor!
-
-# Issues
-
-After some hair removal method you can expect some issues. Most common issue is ingrown hairs (razor bumps). There are other possible issues that can occur, but these are more complicated and should be examined carefully. Bellow you will find information about ingrown hairs:
-
-Ingrown hair occur when hair growing outwards from your skin is not able to penetrate the skin and causes skin irritation in forms of bumps, this also can happen when the growing hair curls back into your skin. To prevent this, you need a well hydrated, exfoliated and elastic skin, this can be achieved with a proper skincare routine, but some methods are still going to cause ingrown hairs for some people. Below you will find things you should not be doing when you have ingrown hair:
-- DO NOT touch
-- DO NOT squeeze
-- DO NOT poke
-- DO NOT scratch
-- DO NOT cut
-- DO NOT dig it out from skin
-- DO NOT punch
-- DO NOT use a flamethrower
-- DO NOT do anything to it, leave it alone!
-
-Your skin is an organ that is able to heal itself, if you do experience ingrown hair (especially from the first time shaving), let your skin heal itself. Ingrown hair should disappear after a few days if you are not touching it. Avoid tight clothes, shower on regular basis and, most importantly, moisturize your skin. The more you are going to touch it, the longer you will see skin discoloration or even scars that can stay for years. Hopefully you will learn your lesson and reconsider the importance of skincare.
-
-You can use an exfoliator to help the healing process, but be very gentle. Using harsh exfoliators will make your skin condition only worse, only chemical exfoliators are recommended if you experience ingrown hairs.
